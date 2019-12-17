@@ -23,12 +23,15 @@ This is a list of commercial LoRaWAN gateways currently available for purchase. 
 
 + [The Things Gateway](../gateway): At a price of €300 and with its easy web-based setup, it is the best choice to help build The Things Network.
 
-
 ## Kerlink
 
 + [Kerlink IoT Station](../kerlink): The Kerlink IoT Station was one of the first commercially available gateways, running a Linux OS. Although the software is outdated and will required a trained engineer, it is a suitable industrial solution. Our documentation explains how to connect it to The Things Network.
 
 + [Kerlink iBTS](http://www.kerlink.com/en/products/lora-iot-station-2/wirnet-ibts): The Kerlink iBTS is the successor of the IoT Station. Its hardware and software offer multi-antenna setups, giving more precise device data.
+
+## KHOMP
+
++ [Khomp ITG200](https://www.khomp.com/pt/produto/itg-200/): ITG200 is a full featured IOT gateway, with support for LoRaWan with 64 channels, have an integrated network server and application (but supports external network servers) fallback to dual chip 3G, support MQTT clouds with SenML format. Certified by Brazil's national telecommunication agency (ANATEL).
 
 ## Multitech
 
